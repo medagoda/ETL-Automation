@@ -1,6 +1,6 @@
-![Image Alt Text](1.PNG)
-![Image Alt Text](2.PNG)
-![Image Alt Text](3.PNG)
+![Image Alt Text](images/1.PNG)
+![Image Alt Text](images/2.PNG)
+![Image Alt Text](images/3.PNG)
 
 <<<<<<< HEAD
 Overview
